@@ -1,0 +1,19 @@
+/* Mobile */
+@media (max-width:992px) {
+    .banner{
+        background: linear-gradient(rgba(),rgba()),url(../1/Assests/images/4.jpg) no-repeat center;
+    }
+    .company, .card,footer{
+        flex-flow: column;
+        text-align: center;
+    }
+    .getInTouch>div{
+        margin: 0px;
+    }
+}
+    /* Tablet */
+    @media(min-width:993px) and (max-width:1200px){
+        .banner{
+            background: linear-gradient(rgba(),rgba()),url(../1/Assests/images/5.jpg) no-repeat center;
+        } 
+    }
